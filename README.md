@@ -42,6 +42,5 @@ Please cite our paper(s) if you find this code useful in your own work:
       author={Anthony Gruber and Max Gunzburger and Lili Ju and Rihui Lan and Zhu Wang},
       year={2022},
       eprint={to_fill_in},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
+      archivePrefix={EGUsphere},
 }
